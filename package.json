@@ -1,0 +1,16 @@
+{
+  "name": "malsense-lab",
+  "version": "1.2.0",
+  "description": "Client-side email security inspector and heuristic triage engine",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "phishing",
+    "email-security",
+    "heuristics",
+    "threat-detection"
+  ],
+  "author": "Vaishak",
+  "license": "MIT"
+}
